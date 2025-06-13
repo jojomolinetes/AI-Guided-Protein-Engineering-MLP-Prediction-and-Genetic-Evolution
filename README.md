@@ -19,8 +19,9 @@ A temperatura de *melting* indica quão estável uma proteína é quando é expo
 
 
 ## ✅ Pré-requisitos
-Como pré-requisitos para a utilização dos notebooks presentes nesse repositório, é necessário utilizar editor de linguagem compatível com Python 3.13, bem como instalar as versões especificadas das seguintes bibliotecas:
 **Ambiente:** Python 3.8+ (ideal: entre 3.8 e 3.11)
+
+Como pré-requisitos para a utilização dos notebooks presentes nesse repositório, é necessário utilizar editor de linguagem compatível com Python 3.13, bem como instalar as versões especificadas das seguintes bibliotecas:
 ```bash
 torch==2.0.1
 deap==1.3.3
