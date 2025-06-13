@@ -2,12 +2,13 @@
 
 <h1 align='center'> Predição e Otimização da Estabilidade Térmica de Proteínas com Redes Neurais e Algoritmos Genéticos </h1>
 
-## Redes Neurais e Algoritmos Genéticos
+<h2 align="center">Redes Neurais e Algoritmos Genéticos</h2>
 
 
 🧠 Redes Neurais • 🧬 Algoritmos Genéticos •  🔬 Engenharia de proteínas • 🧪Estabilidade in silico • 🐍 Python
 
 **Autores:** Joana de Medeiros Oliveira Hulse Molinete e Rafaela Beatriz Luz.
+
 **Contribuições:** Toda a discussão acerca do problema, entendimento e desenvolvimento do código foi realizada em conjunto pelas autoras de forma concomitante.
 
 **Orientação:** Prof. Dr. Daniel Roberto Cassar
