@@ -34,7 +34,7 @@ scikit-learn==1.3.0
 
 
 ## ⚠️ Aviso:
-Este repositório foi desenvolvido como um trabalho de graduação, da matéria de Redes Neurais e Algoritmos Genéticos, ministrada pelo professor Dr. Daniel Cassar. 
+Este repositório foi desenvolvido como um trabalho de graduação do terceiro semestre do curso de Bacharelado em Ciência e Tecnologia, na matéria de Redes Neurais e Algoritmos Genéticos, ministrada pelo professor Dr. Daniel Cassar. 
 
 --- 
 
