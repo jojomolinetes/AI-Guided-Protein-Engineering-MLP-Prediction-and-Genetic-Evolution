@@ -1,11 +1,14 @@
-# Predição e Otimização da Estabilidade Térmica de Proteínas com Redes Neurais e Algoritmos Genéticos
+![Logos MCTI, CNPEM e ILUM](https://github.com/leticiaalmnunes/PCD---Boletim/assets/172425156/93c3eb13-410c-40c0-a412-7096187678a4)
+
+<h1 align='center'> Predição e Otimização da Estabilidade Térmica de Proteínas com Redes Neurais e Algoritmos Genéticos </h1>
 
 ## Redes Neurais e Algoritmos Genéticos
 
 
 🧠 Redes Neurais • 🧬 Algoritmos Genéticos •  🔬 Engenharia de proteínas • 🧪Estabilidade in silico • 🐍 Python
 
-**Autores:** Joana de Medeiros Oliveira Hulse Molinete e Rafaela Beatriz Luz
+**Autores:** Joana de Medeiros Oliveira Hulse Molinete e Rafaela Beatriz Luz.
+**Contribuições:** Toda a discussão acerca do problema, entendimento e desenvolvimento do código foi realizada em conjunto pelas autoras de forma concomitante.
 
 **Orientação:** Prof. Dr. Daniel Roberto Cassar
 
